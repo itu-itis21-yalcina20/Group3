@@ -11,7 +11,11 @@ We used only Python programming language.
 To run successfully, you need several libraries:
 
 1)Numpy 1.26.2
+
 2)Pandas 2.1.3
+
 3)Pickle 0.7.5
+
 4)Matplotlib 3.8.2
+
 5)scikit-learn 1.3.2
