@@ -1,5 +1,5 @@
-# Group3 - Movie Recommendation System
-We are the team members of Group 3, Alihan Yalçın and Kutay Arda Dinç, both third-year students in the Artificial Intelligence and Data Engineering program at Istanbul Technical University.
+# Hybrid Movie Recommendation System
+We are Alihan Yalçın and Kutay Arda Dinç, both third-year students in the Artificial Intelligence and Data Engineering program at Istanbul Technical University.
 
 ## **What are we doing?**
 We implemented both content and collaborative filtering techniques for movies.
